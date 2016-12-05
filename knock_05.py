@@ -1,5 +1,4 @@
 
-
 def make_ngram(n, gram):
     '''
     n-gramを作成する関数
